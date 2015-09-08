@@ -1,5 +1,5 @@
-# Phonegap_developper_app
-Solution to resolve connection timeout when using  Phonegap developper app.
+# Phonegap_developer_app
+Solution to resolve connection timeout when using  Phonegap developer app.
 
 PhoneGap is a development tool that allows web developers to take advantage of the core features in mobiles with a unified JavaScript API. The PhoneGap Developer App allows users to develop locally then see the changes instantly on your mobile device.
 
