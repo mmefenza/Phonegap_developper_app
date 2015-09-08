@@ -1,7 +1,7 @@
 # Phonegap_developper_app
 Solution to resolve connection timeout when using  Phonegap developper app.
 
-PhoneGap is a development tool that allows web developers to take advantage of the core features in the iPhone, Android, BlackBerry, and Symbian with a unified JavaScript API. The PhoneGap Developer App allows users to develop locally then see the changes instantly on your mobile device.
+PhoneGap is a development tool that allows web developers to take advantage of the core features in mobiles with a unified JavaScript API. The PhoneGap Developer App allows users to develop locally then see the changes instantly on your mobile device.
 
 # Issue
 WHen trying to use he PhoneGap Developer App, on Linux kali running on my Chromebook, I received timeout error (on a browser) and downloading error ( on my mobile). There is connectivity between the Phonegap server and the mobile. This was tested using ping. I did not have any firewall on.
